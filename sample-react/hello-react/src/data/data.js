@@ -1,8 +1,8 @@
 export const navItems = ["Home", "Explore", "Notifications", "Messages", "Bookmarks"];
 
 export const currentUser = {
-    name: "Saidur Rahman Shaheen",
-    handle: "@Shaheen",
+    name: "Md.Fahad Hasan",
+    handle: "@Fahad",
     avatar: "/images/avatar4.jpg",
 };
 
